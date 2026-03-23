@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Ciba
+Comment=iCIBA Mobile (Electron)
+Exec=/opt/ciba-electron/launch.sh
+Terminal=false
+Type=Application
+Icon=$HOME/.local/share/icons/chromium/ciba.png
+Categories=Education;Utility;
+StartupWMClass=ciba-electron
+
